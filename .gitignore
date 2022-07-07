@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
-
+<TextView
+android:id="@+id/location_on"
+android:layout_width="28dp"
+android:layout_height="28dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="182dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="564.7dp"
+android:text="@string/location_on"
+android:textAppearance="@style/location_on"
+android:gravity="top"
+ />
 # Compiled Object files
 *.slo
 *.lo
